@@ -1,0 +1,4 @@
+host: "http://localhost:8080"
+test_user:
+  username: "test01"
+  password: "123456"

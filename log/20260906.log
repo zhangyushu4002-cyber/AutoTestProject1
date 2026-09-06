@@ -1,0 +1,66 @@
+2026-09-06 15:41:08,111 - AutoTest - INFO - ===== 开始执行接口用例 =====
+2026-09-06 15:41:08,112 - AutoTest - INFO - 执行用例：正常登录
+2026-09-06 15:41:12,191 - AutoTest - ERROR - 请求异常：HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/login (Caused by NewConnectionError("HTTPConnection(host='localhost', port=8080): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。"))
+2026-09-06 15:41:12,306 - AutoTest - INFO - ===== 接口用例执行结束 =====
+2026-09-06 15:41:12,307 - AutoTest - INFO - ===== 开始执行接口用例 =====
+2026-09-06 15:41:12,307 - AutoTest - INFO - 执行用例：密码错误登录
+2026-09-06 15:41:16,407 - AutoTest - ERROR - 请求异常：HTTPConnectionPool(host='localhost', port=8080): Max retries exceeded with url: /api/login (Caused by NewConnectionError("HTTPConnection(host='localhost', port=8080): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。"))
+2026-09-06 15:41:16,414 - AutoTest - INFO - ===== 接口用例执行结束 =====
+2026-09-06 15:45:55,774 - AutoTest - INFO - ===== 开始执行接口用例 =====
+2026-09-06 15:45:55,775 - AutoTest - INFO - 执行用例：正常登录
+2026-09-06 15:45:55,802 - AutoTest - INFO - 请求地址:http://localhost:8080/api/login, 请求方式:POST, 响应码:200
+2026-09-06 15:45:55,906 - AutoTest - INFO - ===== 接口用例执行结束 =====
+2026-09-06 15:45:55,907 - AutoTest - INFO - ===== 开始执行接口用例 =====
+2026-09-06 15:45:55,907 - AutoTest - INFO - 执行用例：密码错误登录
+2026-09-06 15:45:55,923 - AutoTest - INFO - 请求地址:http://localhost:8080/api/login, 请求方式:POST, 响应码:200
+2026-09-06 15:45:55,928 - AutoTest - INFO - ===== 接口用例执行结束 =====
+2026-09-06 15:47:57,399 - AutoTest - INFO - ===== 开始执行接口用例 =====
+2026-09-06 15:47:57,399 - AutoTest - INFO - 执行用例：正常登录
+2026-09-06 15:47:57,429 - AutoTest - INFO - 请求地址:http://localhost:8080/api/login, 请求方式:POST, 响应码:200
+2026-09-06 15:47:57,514 - AutoTest - INFO - ===== 接口用例执行结束 =====
+2026-09-06 15:47:57,515 - AutoTest - INFO - ===== 开始执行接口用例 =====
+2026-09-06 15:47:57,515 - AutoTest - INFO - 执行用例：密码错误登录
+2026-09-06 15:47:57,539 - AutoTest - INFO - 请求地址:http://localhost:8080/api/login, 请求方式:POST, 响应码:200
+2026-09-06 15:47:57,543 - AutoTest - INFO - ===== 接口用例执行结束 =====
+2026-09-06 15:49:35,357 - AutoTest - INFO - ===== 开始执行接口用例 =====
+2026-09-06 15:49:35,358 - AutoTest - INFO - 执行用例：正常登录
+2026-09-06 15:49:35,366 - AutoTest - INFO - 请求地址:http://localhost:8080/api/login, 请求方式:POST, 响应码:200
+2026-09-06 15:49:35,459 - AutoTest - INFO - ===== 接口用例执行结束 =====
+2026-09-06 15:49:35,460 - AutoTest - INFO - ===== 开始执行接口用例 =====
+2026-09-06 15:49:35,461 - AutoTest - INFO - 执行用例：密码错误登录
+2026-09-06 15:49:35,485 - AutoTest - INFO - 请求地址:http://localhost:8080/api/login, 请求方式:POST, 响应码:200
+2026-09-06 15:49:35,489 - AutoTest - INFO - ===== 接口用例执行结束 =====
+2026-09-06 15:49:44,224 - AutoTest - INFO - ===== 开始执行接口用例 =====
+2026-09-06 15:49:44,225 - AutoTest - INFO - 执行用例：正常登录
+2026-09-06 15:49:44,231 - AutoTest - INFO - 请求地址:http://localhost:8080/api/login, 请求方式:POST, 响应码:200
+2026-09-06 15:49:44,313 - AutoTest - INFO - ===== 接口用例执行结束 =====
+2026-09-06 15:49:44,314 - AutoTest - INFO - ===== 开始执行接口用例 =====
+2026-09-06 15:49:44,314 - AutoTest - INFO - 执行用例：密码错误登录
+2026-09-06 15:49:44,336 - AutoTest - INFO - 请求地址:http://localhost:8080/api/login, 请求方式:POST, 响应码:200
+2026-09-06 15:49:44,340 - AutoTest - INFO - ===== 接口用例执行结束 =====
+2026-09-06 15:50:29,705 - AutoTest - INFO - ===== 开始执行接口用例 =====
+2026-09-06 15:50:29,706 - AutoTest - INFO - 执行用例：正常登录
+2026-09-06 15:50:29,715 - AutoTest - INFO - 请求地址:http://localhost:8080/api/login, 请求方式:POST, 响应码:422
+2026-09-06 15:50:29,824 - AutoTest - INFO - ===== 接口用例执行结束 =====
+2026-09-06 15:50:29,825 - AutoTest - INFO - ===== 开始执行接口用例 =====
+2026-09-06 15:50:29,825 - AutoTest - INFO - 执行用例：密码错误登录
+2026-09-06 15:50:29,829 - AutoTest - INFO - 请求地址:http://localhost:8080/api/login, 请求方式:POST, 响应码:422
+2026-09-06 15:50:29,833 - AutoTest - INFO - ===== 接口用例执行结束 =====
+2026-09-06 15:51:06,383 - AutoTest - INFO - ===== 开始执行接口用例 =====
+2026-09-06 15:51:06,383 - AutoTest - INFO - 执行用例：正常登录
+2026-09-06 15:51:06,390 - AutoTest - INFO - 请求地址:http://localhost:8080/api/login, 请求方式:POST, 响应码:422
+2026-09-06 15:51:06,493 - AutoTest - INFO - ===== 接口用例执行结束 =====
+2026-09-06 15:51:06,494 - AutoTest - INFO - ===== 开始执行接口用例 =====
+2026-09-06 15:51:06,494 - AutoTest - INFO - 执行用例：密码错误登录
+2026-09-06 15:51:06,497 - AutoTest - INFO - 请求地址:http://localhost:8080/api/login, 请求方式:POST, 响应码:422
+2026-09-06 15:51:06,501 - AutoTest - INFO - ===== 接口用例执行结束 =====
+2026-09-06 15:56:52,426 - AutoTest - INFO - ===== 开始执行接口用例 =====
+2026-09-06 15:56:52,427 - AutoTest - INFO - 执行用例：正常登录
+2026-09-06 15:56:52,434 - AutoTest - INFO - 请求地址:http://localhost:8080/api/login, 请求方式:POST, 响应码:200
+2026-09-06 15:56:52,434 - AutoTest - INFO - 正常登录 执行通过
+2026-09-06 15:56:52,435 - AutoTest - INFO - ===== 接口用例执行结束 =====
+2026-09-06 15:56:52,435 - AutoTest - INFO - ===== 开始执行接口用例 =====
+2026-09-06 15:56:52,436 - AutoTest - INFO - 执行用例：密码错误登录
+2026-09-06 15:56:52,438 - AutoTest - INFO - 请求地址:http://localhost:8080/api/login, 请求方式:POST, 响应码:200
+2026-09-06 15:56:52,438 - AutoTest - INFO - 密码错误登录 执行通过
+2026-09-06 15:56:52,439 - AutoTest - INFO - ===== 接口用例执行结束 =====
